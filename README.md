@@ -3,8 +3,8 @@
 First, create a virtual environment, update pip, and install the required packages:
 
 ```
-$ python3 -m venv venv
-$ source .venv/bin/activate
+$ python -m venv venv
+$ venv/scripts/Activate.ps1
 $ pip install -U pip
 $ pip install -r requirements.txt
 ```
@@ -16,14 +16,14 @@ LIVEKIT_URL=...
 LIVEKIT_API_KEY=...
 LIVEKIT_API_SECRET=...
 DEEPGRAM_API_KEY=...
-OPENAI_API_KEY=...
+CARTESIA_API_KEY=...
 ```
 
 Then, run the assistant:
 
 ```
-$ python3 assistant.py download-files
-$ python3 assistant.py start
+$ python assistant.py download-files
+$ python assistant.py start
 ```
 
 Finally, you can load the [hosted playground](https://agents-playground.livekit.io/) and connect it.
