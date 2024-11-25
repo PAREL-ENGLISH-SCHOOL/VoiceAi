@@ -1,20 +1,19 @@
-# Voice AI : the ultimate ai
-
+# Voice Ai : the ultimate Ai bot
 ## Disclaimer
-This is made for science exhibtion project. There is many rooms of improvement. It is just made for prototype purpose
+This is made for a science exhibition project. There is a lot of room for improvement. It is just made for prototype purpose
 
 ## AI model
-This use LLAMA 3.2 LLM preview. It can make mistakes. If the information give by AI is critical for you, you should cross check the results.
+This uses LLAMA 3.2 LLM preview. It can make mistakes. If the information given by AI is critical for you, you should cross check the results.
 
 ## Table of Content
-- [Prerequistes](#prerequistes)
+- [Prerequisites](#prerequistes)
 - [Getting Keys](#getting-required-keys-completely-free-and-secure)
 - [Setting Up Project](#setting-up-project)
 - [Environment Variables](#environment-variables)
 - [Running](#running)
 
-## Prerequistes
-- Download the Latest Version of Python from [python.org]([https://python.org](https://www.python.org/downloads/))
+## Prerequisites
+- Download the Latest Version of Python from [python.org](https://www.python.org/downloads/)
 - If you are going to edit the code then also download a python code editor for better experience. [VScode](https://code.visualstudio.com/Download) with Python extension is recommended.
 - Some basic knowledge of terminal of your system. If not, you can just follow our given commands(for windows). For other system you can ask me or google it.
 
