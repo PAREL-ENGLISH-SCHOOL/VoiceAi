@@ -31,7 +31,8 @@ $ pip install -U pip
 $ pip install -r requirements.txt
 ```
 ## Environment Variables
-You need to set up the following environment variables in .env.local file:
+
+You need to set up the following environment variables in .env.local file (steps to get this is giving in [Getting Keys](#getting-required-keys-completely-free-and-secure)):
 ```
 LIVEKIT_URL=
 LIVEKIT_API_KEY=
@@ -49,4 +50,4 @@ $ python assistant.py download-files
 $ python assistant.py start
 ```
 
-Connect to the assistant web socket with the livekit project name show on screen [hosted playground](https://agents-playground.livekit.io/).
+Connect to the assistant web socket with the livekit project name show on screen [hosted playground](https://agents-playground.livekit.io/) of livekit.
