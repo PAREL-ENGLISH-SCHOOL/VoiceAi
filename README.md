@@ -1,9 +1,14 @@
-# Voice Ai : the ultimate Ai bot
+# Voice Ai : the ultimate realtime Ai bot
+
+## Description
+It is a real time chatbot that combines voice, text and vision capabilities to deliver a seamless and interactive user experiences. Designed for versatility, It understands spoken language, processes text with precision, for dynamic applications like virtual assistance, education and many more.
+
+
 ## Disclaimer
 This is made for a science exhibition project. There is a lot of room for improvement. It is just made for prototype purpose
 
 ## AI model
-This uses LLAMA 3.2 LLM preview. It can make mistakes. If the information given by AI is critical for you, you should cross check the results.
+This uses LLAMA 3.2 LLM preview model. It can make mistakes. If the information given by AI is critical for you, you should cross check the results.
 
 ## Table of Content
 - [Prerequisites](#prerequistes)
