@@ -1,4 +1,4 @@
-# LiveKit Assistant
+# Voice AI : the ultimate ai
 
 Getting required keys (Completely free and secure)
 1) Create a Groq account and get a api key
