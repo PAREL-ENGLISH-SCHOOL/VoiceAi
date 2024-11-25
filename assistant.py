@@ -1,5 +1,4 @@
 import asyncio
-import os
 from typing import Annotated
 
 from livekit import agents, rtc
