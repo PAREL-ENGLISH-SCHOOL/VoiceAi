@@ -1,11 +1,11 @@
 # Voice AI : the ultimate ai
 
 ## Table of Content
-[Prerequistes](#prerequistes)
-[Getting Keys](#getting-required-keys-completely-free-and-secure)
-[Setting Up Project](#setting-up-project)
-[Environment Variables](#environment-variables)
-[Running](#running)
+- [Prerequistes](#prerequistes)
+- [Getting Keys](#getting-required-keys-completely-free-and-secure)
+- [Setting Up Project](#setting-up-project)
+- [Environment Variables](#environment-variables)
+- [Running](#running)
 
 ## Prerequistes
 Download the Latest Version of Python from [python.org]([https://python.org](https://www.python.org/downloads/))
