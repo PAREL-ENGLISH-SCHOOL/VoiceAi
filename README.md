@@ -8,9 +8,9 @@
 - [Running](#running)
 
 ## Prerequistes
-Download the Latest Version of Python from [python.org]([https://python.org](https://www.python.org/downloads/))
-If you are going to edit the code then also download a python code editor for better experience. [VScode](https://code.visualstudio.com/Download) with Python extension is recommended.
-Some basic knowledge of terminal of your system. If not you can just follow our given commands(for windows). For other system you can ask me or google it.
+- Download the Latest Version of Python from [python.org]([https://python.org](https://www.python.org/downloads/))
+- If you are going to edit the code then also download a python code editor for better experience. [VScode](https://code.visualstudio.com/Download) with Python extension is recommended.
+- Some basic knowledge of terminal of your system. If not, you can just follow our given commands(for windows). For other system you can ask me or google it.
 
 ## Getting required keys (Completely free and secure)
 1) Create a Groq account and get a api key
