@@ -1,5 +1,7 @@
 # Voice AI : the ultimate ai
 
+Download the Latest Version of Python from [python.org](https://python.org)
+
 Getting required keys (Completely free and secure)
 1) Create a Groq account and get a api key
 2) Create a Livekit account
