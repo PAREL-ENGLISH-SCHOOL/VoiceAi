@@ -1,6 +1,6 @@
 # LiveKit Assistant
 
-Getting required keys
+Getting required keys (Completely free and secure)
 1) Create a Groq account and get a api key
 2) Create a Livekit account
 3) Create a Livekit project (this will give you LIVEKIT_URL)
