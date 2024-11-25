@@ -1,5 +1,11 @@
 # Voice AI : the ultimate ai
 
+## Disclaimer
+This is made for science exhibtion project. There is many rooms of improvement. It is just made for prototype purpose
+
+## AI model
+This use LLAMA 3.2 LLM preview. It can make mistakes. If the information give by AI is critical for you, you should cross check the results.
+
 ## Table of Content
 - [Prerequistes](#prerequistes)
 - [Getting Keys](#getting-required-keys-completely-free-and-secure)
