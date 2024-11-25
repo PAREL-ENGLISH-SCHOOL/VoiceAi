@@ -1,8 +1,18 @@
 # Voice AI : the ultimate ai
 
-Download the Latest Version of Python from [python.org](https://python.org)
+## Table of Content
+[Prerequistes](#prerequistes)
+[Getting Keys](#getting-required-keys-completely-free-and-secure)
+[Setting Up Project](#setting-up-project)
+[Environment Variables](#environment-variables)
+[Running](#running)
 
-Getting required keys (Completely free and secure)
+## Prerequistes
+Download the Latest Version of Python from [python.org]([https://python.org](https://www.python.org/downloads/))
+If you are going to edit the code then also download a python code editor for better experience. [VScode](https://code.visualstudio.com/Download) with Python extension is recommended.
+Some basic knowledge of terminal of your system. If not you can just follow our given commands(for windows). For other system you can ask me or google it.
+
+## Getting required keys (Completely free and secure)
 1) Create a Groq account and get a api key
 2) Create a Livekit account
 3) Create a Livekit project (this will give you LIVEKIT_URL)
@@ -11,7 +21,7 @@ Getting required keys (Completely free and secure)
 6) Get a api key
 7) Create a Cartesia account and get a api key
 
-Setting Up Project
+## Setting Up Project
 Clone or Download this repo
 Create a virtual environment, update pip, and install the required packages using following commands (this is for windows):
 ```
@@ -20,7 +30,7 @@ $ venv/scripts/Activate.ps1
 $ pip install -U pip
 $ pip install -r requirements.txt
 ```
-
+## Environment Variables
 You need to set up the following environment variables in .env.local file:
 ```
 LIVEKIT_URL=
@@ -31,6 +41,7 @@ GROQ_API_KEY=
 CARTESIA_API_KEY=
 ```
 
+## Running
 Then, run the assistant web socket:
 
 ```
