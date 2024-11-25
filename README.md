@@ -21,11 +21,12 @@ $ pip install -r requirements.txt
 
 You need to set up the following environment variables in .env.local file:
 ```
-LIVEKIT_URL=...
-LIVEKIT_API_KEY=...
-LIVEKIT_API_SECRET=...
-DEEPGRAM_API_KEY=...
-CARTESIA_API_KEY=...
+LIVEKIT_URL=
+LIVEKIT_API_KEY=
+LIVEKIT_API_SECRET=
+DEEPGRAM_API_KEY=
+GROQ_API_KEY=
+CARTESIA_API_KEY=
 ```
 
 Then, run the assistant web socket:
