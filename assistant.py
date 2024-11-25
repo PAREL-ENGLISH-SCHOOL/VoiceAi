@@ -100,7 +100,7 @@ async def entrypoint(ctx: JobContext):
 
         chat_context.messages.append(ChatMessage(role="user", content=content))
 
-        stream = gpt.chat(chat_ctx=chat_context)
+        stream = llava.chat(chat_ctx=chat_context)
         await assistant.say(stream, allow_interruptions=True)
 
     @chat.on("message_received")
